@@ -1,0 +1,6 @@
+{
+  "embedding_model": "HarishMaths/Hotel-Policy-Embedding",
+  "llm_model": "gpt-4o-mini",
+  "normalized_embeddings": true,
+  "top_k": 5
+}
